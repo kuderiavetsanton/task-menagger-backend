@@ -1,1 +1,1 @@
-module.exports = `mongodb+srv://Anton:Ravenge@nexttry.ycaah.mongodb.net/TaskMenager?retryWrites=true&w=majority`
+
